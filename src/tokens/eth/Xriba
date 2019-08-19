@@ -1,0 +1,31 @@
+{
+  "symbol": "XRA",
+  "name": "MasterXriba",
+  "type": "ERC20",
+  "address": "0x7025bab2ec90410de37f488d1298204cd4d6b29d",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://xriba.com",
+  "logo": {
+    "src": "https://etherscan.io/token/images/xriba_28.png",
+    "width": "28px",
+    "height": "28px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "info@xriba.com", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/XribaPay/",
+    "forum": "",
+    "github": "https://github.com/masterxriba",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/xriba_official/",
+    "linkedin": "https://www.linkedin.com/company/xriba/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": "https://www.youtube.com/channel/UCI6BdE3XdDQ-dqZ3bTaIKTA"
+  }
+}
